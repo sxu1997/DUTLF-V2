@@ -12,3 +12,5 @@ Each sample of DUTLF-V2 contains 5 elements, including a RGB image (a), a salien
 Our motivation for DUTLF-V2 is to build a versatile dataset in large scale, high diversity and broad coverage. We conduct descriptive statistics on our DUTLF-V2 in terms of the following aspects: Diversity of Salient Objects (a), Challenging Scenes (b and c), Scale of Salient Objects (e) and Distribution of Center Bias (f).
 
 ![Fig2-Statistics](https://github.com/OIPLab-DUT/DUTLF-V2/blob/main/Fig2-Statistics.jpg)
+
+## add a test
